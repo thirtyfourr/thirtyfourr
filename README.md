@@ -1,6 +1,6 @@
 # thirtyfour ⚡
 ## Main Project: BlitzAC
-https://imgur.com/vkY9leQ
+![alt text](https://imgur.com/vkY9leQ)
 ### As of recently, I have privated all my old repos due to me releasing information about BlitzAC
 
 Hey there! I'm thirtyfour, a Minecraft plugin and client developer who works with Java ⚙️. My main focus is developing an anti-cheat called BlitzAC ⚡, which provides top-notch protection against cheaters and hackers 🛡️.
