@@ -1,5 +1,5 @@
 # thirtyfour ⚡
-## Main Project: BlitzAC
+## Main Projects: Blitz.AC, Blitz.ADMIN
 
 ### As of recently, I have privated all my old repos due to me releasing information about BlitzAC
 
